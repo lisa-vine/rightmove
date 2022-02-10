@@ -124,4 +124,3 @@ Feature: Search for property
                     Then an error message is displayed as please enter an area, postcods or train station
 
 
-
