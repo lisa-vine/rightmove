@@ -68,9 +68,6 @@ public class Searchstep {
 
     }
 
-    @When("I leave my option as default")
-    public void i_leave_my_option_as_default() {
-
     }
 
     @When("I click on the {string} botton")
