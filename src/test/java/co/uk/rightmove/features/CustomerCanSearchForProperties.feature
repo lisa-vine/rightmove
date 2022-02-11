@@ -117,10 +117,6 @@ Feature: Search for property
                   And I click on Start Search botton
                   Then an error message is displayed as please enter an area, postcods or train station
 
-                  Scenario: User can not successfully start search for a house with numbers
-                    Given I navigate to www.rightmove.co.uk webpage
-                    When I enter numbers in 'Start search' field as "12345"
-                    And I click on Start Search botton
-                    Then an error message is displayed as please enter an area, postcods or train station
+
 
 
